@@ -1,9 +1,46 @@
 # Raspberry Pi - OLED 128x32
 
-### ENABLE I2C
+### 1. ENABLE I2C
 
 ```
 sudo raspi-config
 ```
-3 Interface Option -> P5 I2C -> Yes<br>
-3 Interface Option -> P4 SPI -> Yes
+3 Interface Option -> I4 SPI -> Yes <br>
+3 Interface Option -> I5 I2C -> Yes
+
+### 2. INSTALL NECESSARY FILES
+```
+sudo apt update
+```
+```
+sudo apt upgrade -y
+```
+```
+sudo apt-get install python3-pip
+```
+May or May not be needed:
+```
+sudo pip3 install --upgrade setuptools
+```
+```
+pip3 install adafruit-circuitpython-ssd1306
+```
+```
+sudo apt-get install python3-pip
+```
+```
+sudo apt-get install python3-pil
+```
+For showing Temperature:
+```
+sudo pip3 install gpiozero
+```
+```
+sudo pip3 install adafruit-circuitpython-ssd1306
+```
+```
+sudo pip3 install adafruit-blinka
+```
+### 3. GET OLED ADDRESS
+Make sure OLED is Connected for this step - Diagram below. This step is if you don’t know the address of your I2C Display
+
