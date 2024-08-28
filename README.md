@@ -2,7 +2,7 @@
 
 ### ENABLE I2C
 
-```#
+```
 sudo raspi-config
 ```
 3 Interface Option -> P5 I2C -> Yes<br>
