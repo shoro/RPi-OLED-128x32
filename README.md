@@ -60,7 +60,7 @@ i2cdetect -y 1
 Example:
 <em>(You should see something like this)</em>
 
-![OLED I2C Address.png](https://github.com/shoro/RPi-OLED-128x32/blob/main/img/OLED%20I2C%20Address.png)
+![OLED I2C Address](/img/OLED%20I2C%20Address.png)
 
 ### 4. CREATE PYTHON CODE TO RUN DISPLAY:
 ```
