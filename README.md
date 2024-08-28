@@ -22,12 +22,33 @@ sudo apt update
 sudo apt upgrade -y
 ```
 ```
+sudo reboot
+```
+```
 sudo apt-get install python3-pip
 ```
-May or May not be needed:
 ```
 sudo pip3 install --upgrade setuptools
 ```
+
+Next, we’re going to install the Adafruit CircuitPython library using the following commands:
+```
+cd ~
+```
+```
+sudo pip3 install --upgrade adafruit-python-shell
+```
+```
+wget https://raw.githubusercontent.com/adafruit/Raspberry-Pi-Installer-Scripts/master/raspi-blinka.py
+```
+```
+sudo python3 raspi-blinka.py
+```
+```
+sudo reboot
+```
+
+
 ```
 pip3 install adafruit-circuitpython-ssd1306
 ```
