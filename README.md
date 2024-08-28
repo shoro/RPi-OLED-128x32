@@ -2,7 +2,7 @@
 
 Links:
 
-[CASE](https://www.prusaprinters.org/prints/106225-modular-snap-together-raspberry-pi-2b3b3b4-case-w-)
+[Raspberry Pi4 B - CASE](https://www.prusaprinters.org/prints/106225-modular-snap-together-raspberry-pi-2b3b3b4-case-w-)
 
 ### 1. ENABLE I2C
 
