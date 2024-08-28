@@ -49,7 +49,7 @@ sudo pip3 install adafruit-blinka
 ### 3. GET OLED ADDRESS
 Make sure OLED is Connected <em><b>(diagram below)</b></em>. This step is if you don’t know the address of your I2C Display
 
-![Wiring Diagram.png](https://github.com/shoro/RPi-OLED-128x32/blob/main/img/Wiring%20Diagram.png)
+![Wiring Diagram](/img/Wiring%20Diagram.png)
 
 ```
 sudo apt-get install i2c-tools
