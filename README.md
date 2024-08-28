@@ -2,9 +2,9 @@
 
 Links:
 
-[Raspberry Pi4 B - CASE](https://www.prusaprinters.org/prints/106225-modular-snap-together-raspberry-pi-2b3b3b4-case-w-)
+[Raspberry Pi4 - CASE](https://www.prusaprinters.org/prints/106225-modular-snap-together-raspberry-pi-2b3b3b4-case-w-)
 
-[123456](https://www.the-diy-life.com/add-an-oled-stats-display-to-raspberry-pi-os-bullseye/)
+[Raspberry Pi4 - OLED Stats Display](https://www.the-diy-life.com/add-an-oled-stats-display-to-raspberry-pi-os-bullseye/)
 
 ### 1. ENABLE I2C
 
